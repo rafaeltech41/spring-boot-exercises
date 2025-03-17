@@ -1,0 +1,8 @@
+*{
+    background-color: black;
+    color: white;
+    align-items: center;
+    margin:auto;
+    display: grid;
+    gap: 8px;
+}
